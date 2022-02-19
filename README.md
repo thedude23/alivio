@@ -1,2 +1,2 @@
-# Alivio
+# alivio
 Design, made in Figma
